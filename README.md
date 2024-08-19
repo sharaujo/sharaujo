@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Sou grande fã de terraform, ansible e automações. Entusiasta em edição de foto e video. Estou aprendendo codar ^.^</h2>
+<h2 align="left">Oi 👋! Sou grande fã de terraform, ansible e automações. Entusiasta em edição de foto, video, carros e games. Estou aprendendo codar ^.^</h2>
 
 ###
 
