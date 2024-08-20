@@ -69,7 +69,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/sharaujo/sn1neX/blob/main/github-user-contribution.svg" alt="Snake animation" />
+<img src="https://github.com/sharaujo/sharaujo/blob/main/github-user-contribution.svg" alt="Snake animation" />
 
 
 
