@@ -1,7 +1,7 @@
 * 😄 **a.k.a.:** xuh
 * 🔭 I'm currently working on Infrastructure specialist **Grupo Malwee**
-* 🌱 I'm currently learning **networking**, **security** and **Python** and, well, **Crypto stuff** 🤯
-* 🧑‍💻 I'm looking to collaborate on DEVOPS projects
+* 🌱 I'm currently learning **networking**, **security**, **cloud** and **Python** and, well, **Crypto stuff** 🤯
+* 🧑‍💻 I'm looking to collaborate on DEVOPS projects and Developer Program from **GitHub** 
 * 💡 **Focus:** Transforming technical challenges into concrete solutions, focusing on efficiency, innovation, and high availability.
 * 💬 Ask me about **Linux** or **Google Cloud**!
 * 🔗 How to reach me: [linkedin.com/in/sharaujo](https://www.linkedin.com/in/sharaujo/)
