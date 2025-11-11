@@ -7,6 +7,6 @@
 * 🔗 How to reach me: [linkedin.com/in/sharaujo](https://www.linkedin.com/in/sharaujo/)
 * ⚡ Fun fact: ** Although my name is a tribute to the famous Austrian composer, **Franz Schubert**, my only unfinished symphony is... my automation to*do*list!
 
-  [![trophy]( https://github-profile-trophy.vercel.app/?username=sharaujo&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sharaujo&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
 
  
