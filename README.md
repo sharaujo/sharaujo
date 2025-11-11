@@ -1,15 +1,11 @@
-<h2 align="left">Oi 👋!</h2>
-
-##
-<div align="center">
-  
-
-
-</div>
-
-###
-
-###
+* 😄 **a.k.a.:** xuh
+* 🔭 I'm currently working on Infrastructure specialist **Grupo Malwee**
+* 🌱 I'm currently learning **networking**, **security** and **Python** and, well, **Crypto stuff** 🤯
+* 🧑‍💻 I'm looking to collaborate on DEVOPS projects
+* 💡 **Focus:** Transforming technical challenges into concrete solutions, focusing on efficiency, innovation, and high availability.
+* 💬 Ask me about **Linux** or **Google Cloud**!
+* 🔗 How to reach me: [linkedin.com/in/sharaujo](https://www.linkedin.com/in/sharaujo/)
+* ⚡ Fun fact: ** Although my name is a tribute to the famous Austrian composer, **Franz Schubert**, my only unfinished symphony is... my automation to*do*list!
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
@@ -46,18 +42,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sharaujo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
+<P>  </P>
 
 
-###
+[![trophy](https://github-profile-trophy.vercel.app/?username=sharaujo&rank=SSS,SS,S,AAA,AA,A,C,SECRET,&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
