@@ -45,5 +45,4 @@
 <P>  </P>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sharaujo&rank=SSS,SS,S,AAA,AA,A,C,SECRET,&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
