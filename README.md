@@ -1,11 +1,12 @@
 * 😄 **a.k.a.:** xuh
-* 🔭 I'm currently working on Infrastructure specialist **Grupo Malwee**
-* 🌱 I'm currently learning **networking**, **security**, **cloud** and **Python** and, well, **Crypto stuff** 🤯
+* 🏢 I'm Infrastructure specialist **Grupo Malwee**
+* 🌱 I'm currently deep diving into **Cloud Architecture**, **DevSecOps** and **AI automation** and well, **Blockchain infrastructure & decentralized systems** 🤯
 * 🧑‍💻 I'm looking to collaborate on DEVOPS projects and Developer Program from **GitHub** 
-* 💡 **Focus:** Transforming technical challenges into concrete solutions, focusing on efficiency, innovation, and high availability.
-* 💬 Ask me about **Linux** or **Google Cloud**!
+* 💡 **Mission:** Turning complex infrastructure problems into scalable, secure and highly available solutions.
+* 🚀 Exploring DevSecOps, AI-driven automation & Cloud Architecture
+* 💬 Ask me about **Linux**, **Google Cloud** or **Infrastructure Automation**!
 * 🔗 How to reach me: [linkedin.com/in/sharaujo](https://www.linkedin.com/in/sharaujo/)
-* ⚡ Fun fact: ** Although my name is a tribute to the famous Austrian composer, **Franz Schubert**, my only unfinished symphony is... my automation to*do*list!
+* ⚡ Fun fact: Named after Franz Schubert, but my only unfinished symphony is… my automation backlog.
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
