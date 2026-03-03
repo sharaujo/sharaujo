@@ -1,6 +1,6 @@
 * 😄 **a.k.a.:** xuh
 * 🏢 I'm Infrastructure specialist **Grupo Malwee**
-* 🌱 I'm currently deep diving into **Cloud Architecture**, **DevSecOps** and **AI automation** and well, **Blockchain infrastructure & decentralized systems** 🤯
+* 🌱 Deep diving into advanced **Cloud Architecture**, **DevSecOps**, **AI-driven automation** with a focus on  **Blockchain infrastructure** 🤯
 * 🧑‍💻 I'm looking to collaborate on DEVOPS projects and Developer Program from **GitHub** 
 * 💡 **Mission:** Turning complex infrastructure problems into scalable, secure and highly available solutions.
 * 🚀 Exploring DevSecOps, AI-driven automation & Cloud Architecture
