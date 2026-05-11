@@ -8,41 +8,41 @@
 * 🔗 How to reach me: [linkedin.com/in/sharaujo](https://www.linkedin.com/in/sharaujo/)
 * ⚡ Fun fact: Named after Franz Schubert, but my only unfinished symphony is… my automation backlog.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="30" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apple/000000" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="30" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/grafana/F46800" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=e57Y1CnsOasB&format=png&color=000000" height="30" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="30" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redhatopenshift/EE0000" height="30" alt="redhatopenshift logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+<details align="center">
+  <summary><samp><b>More Info</b></samp></summary>
+  <br>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharaujo&theme=nord_dark"/></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharaujo&theme=nord_dark"/></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharaujo&theme=nord_dark&utcOffset=8"/></td>
+    </tr>
+    <tr>
+      <td colspan="2"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharaujo&theme=nord_dark"/></td>
+      <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sharaujo&theme=nord"/></a></td>
+    </tr>
+  </table>
 </div>
+  <br>
+  <div align="center">
+    <samp><b>✦ STACKS ✦</b></samp>
+    <br><br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=aws,ansible,apple,azure,cloudflare,docker,gcp,git,grafana,kubernetes,linux,nodejs,ps,powershell,redhat,raspberrypi,terraform,vscode" />
+    </a>
+  </div>
+  <br>
+  
+  <br>
+  <div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:contato@schubert.eti.br)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/sharaujo/)
+
+  
+</details>
+
 <P>  </P>
 
 
