@@ -11,19 +11,6 @@
 <details align="center">
   <summary><samp><b>More Info</b></samp></summary>
   <br>
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharaujo&theme=nord_dark"/></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharaujo&theme=nord_dark"/></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharaujo&theme=nord_dark&utcOffset=8"/></td>
-    </tr>
-    <tr>
-      <td colspan="2"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharaujo&theme=nord_dark"/></td>
-      <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sharaujo&theme=nord"/></a></td>
-    </tr>
-  </table>
-</div>
   <br>
   <div align="center">
     <samp><b>✦ STACKS ✦</b></samp>
