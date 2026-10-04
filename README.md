@@ -4,14 +4,12 @@
 
 ### Cloud • Platform Engineering • Infrastructure as Code • DevOps • AI-driven Automation
 
-**Technical Account Manager • Cloud Core @ Sauter AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-schubert--araujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharaujo/)
 [![Tech CV](https://img.shields.io/badge/Tech_CV-docs.schubert.eti.br-222222?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.schubert.eti.br/en/whoami)
 </div>
 
 * 😄 **a.k.a.:** xuh
-* 🏢 I'm Technical Account Manager on **Sauter AI**
 * ☁️ Working with **Cloud Architecture, Platform Engineering, DevOps and Infrastructure Automation**
 * 🧱 Strong focus on **Google Cloud, Terraform, Kubernetes, GitHub and Infrastructure as Code**
 * 🤖 Exploring **AI Architecture, Generative AI, LLMs and AI-driven automation applied to engineering**
